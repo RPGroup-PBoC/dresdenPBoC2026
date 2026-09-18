@@ -38,7 +38,7 @@ sidebar: true
 </table>
 
 # When and Where
-Our first meeting will take place on **Monday, September 29th, 2025**: please arrive promptly at **9am** in the Hexagone buildin, Room Hexalab at the first floor.
+Our first meeting will take place on **Monday, October 5th, 2026**: please arrive promptly at **9am** in [...].
 
 Each day will have a schedule roughly of the form:
 <table style="border-collapse: collapse; width: 100%;">
@@ -48,7 +48,7 @@ Each day will have a schedule roughly of the form:
   </tr>
   <tr style="background-color:#d9d9d9;">
     <td style="border:1px solid #ccc; padding:8px;"><b>9h00</b> - 12h30</td>
-    <td style="border:1px solid #ccc; padding:8px;">Lectures from Rob</td>
+    <td style="border:1px solid #ccc; padding:8px;">Lectures from Rob and Jane</td>
   </tr>
   <tr style="background-color:#f2f2f2;">
     <td style="border:1px solid #ccc; padding:8px;">12h30 - 13h30</td>
@@ -56,7 +56,7 @@ Each day will have a schedule roughly of the form:
   </tr>
   <tr style="background-color:#d9d9d9;">
     <td style="border:1px solid #ccc; padding:8px;">13h30 - 16h30 (will end at 15h on Friday)</td>
-    <td style="border:1px solid #ccc; padding:8px;">Lectures from Rob</td>
+    <td style="border:1px solid #ccc; padding:8px;">Lectures from Rob and Jane</td>
   </tr>
   <tr style="background-color:#f2f2f2;">
     <td style="border:1px solid #ccc; padding:8px;">16h45 - 18h30 (15h15 - 17h on Friday)</td>
