@@ -1,7 +1,4 @@
-# `2025` 
-<p align="center">
-  <img src="/assets/img/pbocAtMarseilleLogo_gsal.svg" alt="some cells root for olympique de marseille" style="width:150px; height:auto; margin: 0 auto; display: block;">
-</p>
+# `2026` 
 
 
 
