@@ -38,7 +38,7 @@ sidebar: true
 </table>
 
 # When and Where
-Our first meeting will take place on **Monday, October 5th, 2026**: please arrive promptly at **9am** in [...].
+Our first meeting will take place on **Monday, October 5th, 2026**: please arrive promptly at **9am**. On the first day, Monday, we will be gathering at 8h30.
 
 Each day will have a schedule roughly of the form:
 <table style="border-collapse: collapse; width: 100%;">
@@ -55,11 +55,11 @@ Each day will have a schedule roughly of the form:
     <td style="border:1px solid #ccc; padding:8px;">Lunch Break</td>
   </tr>
   <tr style="background-color:#d9d9d9;">
-    <td style="border:1px solid #ccc; padding:8px;">13h30 - 16h30 (will end at 15h on Friday)</td>
+    <td style="border:1px solid #ccc; padding:8px;">13h30 - 17h00 </td>
     <td style="border:1px solid #ccc; padding:8px;">Lectures from Rob and Jane</td>
   </tr>
   <tr style="background-color:#f2f2f2;">
-    <td style="border:1px solid #ccc; padding:8px;">16h45 - 18h30 (15h15 - 17h on Friday)</td>
+    <td style="border:1px solid #ccc; padding:8px;">17h15 - 18h30 </td>
     <td style="border:1px solid #ccc; padding:8px;">Computation sessions with Sara</td>
   </tr>
 </table>
