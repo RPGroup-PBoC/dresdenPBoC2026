@@ -15,6 +15,16 @@ Day 1:
    description: >
         Darwin's exploration.
 
+ - pub:
+   title: Duration of urination does not change with body size
+   authors: Patricia J. Yang, Jonathan Pham, Jerome Choo, and David L. Hu
+   year: 2014
+   link: Yang2014.pdf
+   description: >
+        Mammals heavier than ~3 kg have an approximately constant urination time (~21 ± 13 s):
+        flow rate is gravity-dominated so T ≈ V/Q. For smaller mammals, capillary and viscous forces complicate the scaling.
+
+
 #  - pub:
 #    title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
 #    authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
