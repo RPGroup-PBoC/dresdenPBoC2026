@@ -24,6 +24,14 @@ Day 1:
         Mammals heavier than ~3 kg have an approximately constant urination time (~21 ± 13 s):
         flow rate is gravity-dominated so T ≈ V/Q. For smaller mammals, capillary and viscous forces complicate the scaling.
 
+ - pub:
+   title: "The Purpose and Ubiquity of Turnover"
+   authors: Peter W. Reddien
+   year: 2024
+   link: Reddien2024.pdf
+   description: >
+        Why biological systems continually destroy and replace their components.
+
 
 #  - pub:
 #    title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
