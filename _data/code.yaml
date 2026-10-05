@@ -14,6 +14,7 @@ Tutorials:
 Exercises:
   - script:
     title: Exercise 1 - Day 1
+    colab: https://colab.research.google.com/drive/1Fsy24xVXyo1lo4XRhBVgoPfO_eyUHR4P?usp=sharing
     #colab: https://colab.research.google.com/drive/1A5IBvyHv9G4y5AYdWx3_JXKhvfC2kje9?usp=sharing
     description: >
           Exponential growth; numerical integration by Forward Euler
