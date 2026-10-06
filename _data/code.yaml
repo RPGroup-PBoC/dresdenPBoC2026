@@ -21,8 +21,9 @@ Exercises:
 
   - script:
     title: Exercise 2 - Day 2
+    colab: https://colab.research.google.com/drive/1S0HNg3Z_VGlKIfsCw3zL2T17bU15RArP?usp=sharing
     description: >
-          Simulating diffusion and chemical master equations through production and degradation
+          Simulating chemical master equations through production and degradation, as well as age distribution amongst a population.
 
   - script:
     title: Exercise 3 - Day 3
