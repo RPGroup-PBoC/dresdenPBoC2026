@@ -32,6 +32,13 @@ Day 1:
    description: >
         Why biological systems continually destroy and replace their components.
 
+ - pub:
+   title: "Patterns of Predation in a Diverse Predator–Prey System"
+   authors: A. R. E. Sinclair, Simon Mduma, Justin S. Brashares
+   year: 2003
+   link: Sinclair2003.pdf
+   description: >
+        How prey body size determines whether populations are controlled by predators or by food availability.
 
 #  - pub:
 #    title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
