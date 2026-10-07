@@ -57,6 +57,14 @@ Day 3:
    description: >
         Traces the development of Euler's integral and the gamma function, showing how mathematical ideas evolve through changing interpretations and applications.
 
+ - pub:
+   title: "Myosin V Walks Hand-Over-Hand: Single Fluorophore Imaging with 1.5-nm Localization"
+   authors: Ahmet Yildiz, Joseph N. Forkey, Sean A. McKinney, Taekjip Ha, Yale E. Goldman, and Paul R. Selvin
+   year: 2003
+   link: Yildiz2003.pdf
+   description: >
+        Tracks individual myosin V heads with nanometer precision, providing direct evidence that the motor moves along actin by a hand-over-hand walking mechanism.
+
 #  - pub:
 #    title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
 #    authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
