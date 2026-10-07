@@ -49,6 +49,14 @@ Day 3:
    description: >
         Models turn assumptions into conclusions, helping us test our thinking rather than literally reproduce nature.
 
+ - pub:
+   title: "Leonhard Euler's Integral: A Historical Profile of the Gamma Function"
+   authors: Philip J. Davis
+   year: 1959
+   link: Davis1959.pdf
+   description: >
+        Traces the development of Euler's integral and the gamma function, showing how mathematical ideas evolve through changing interpretations and applications.
+
 #  - pub:
 #    title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
 #    authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
