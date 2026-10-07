@@ -40,6 +40,15 @@ Day 2:
    description: >
         How prey body size determines whether populations are controlled by predators or by food availability.
 
+Day 3:
+ - pub:
+   title: "Models in biology: 'accurate descriptions of our pathetic thinking'"
+   authors: Jeremy Gunawardena
+   year: 2014
+   link: Gunawardena2014.pdf
+   description: >
+        Models turn assumptions into conclusions, helping us test our thinking rather than literally reproduce nature.
+
 #  - pub:
 #    title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
 #    authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
