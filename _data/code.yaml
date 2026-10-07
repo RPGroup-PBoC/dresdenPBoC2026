@@ -27,8 +27,9 @@ Exercises:
 
   - script:
     title: Exercise 3 - Day 3
+    colab: https://colab.research.google.com/drive/1s6CSybrSKA2XujDzAFFFz7sgF7NpzJFJ?usp=sharing
     description: >
-          Stochastic 1D diffusion applied to a diffusing element reaching a target
+          Stochastic 1D diffusion applied to a diffusing element reaching a target. Spoiler this take infinite time. So one can add some resets to the origin? What happens them? Stay tuned....
 
   - script:
     title: Exercise 4 - Day 4
