@@ -38,6 +38,7 @@ Exercises:
 
   - script:
     title: Exercise 5 - Day 5
+    colab: https://colab.research.google.com/drive/1zLx2naKO5qJ4cv_B16DUjEopWzXJ96kL?usp=sharing
     description: >
           Studying the movement of worms; describing movement with minimal variables
   # - script:
