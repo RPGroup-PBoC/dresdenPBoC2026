@@ -88,6 +88,14 @@ Day 4:
    link: Boltzmann1877.pdf
    description: >
         Develops a probabilistic description of thermal equilibrium and derives the exponential form of the equilibrium energy distribution.
+
+ - pub:
+   title: "Four Golden Lessons"
+   authors: Steven Weinberg
+   year: 2003
+   link: Weinberg2003.pdf
+   description: >
+        Offers four lessons for young scientists: start research before you know everything, seek out messy problems, accept that much research time will be wasted, and learn the history of your field.
 #  - pub:
 #    title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
 #    authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
