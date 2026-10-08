@@ -80,6 +80,14 @@ Day 4:
    link: Nurse2003.pdf
    description: >
         Presents five central ideas in biology: the cell, the gene, evolution by natural selection, life as chemistry, and biological organization through information and logical processes.
+
+ - pub:
+   title: "On the Relation Between the Second Law of the Mechanical Theory of Heat and Probability Calculations Regarding Thermal Equilibrium"
+   authors: Ludwig Boltzmann
+   year: 1877
+   link: Boltzmann1877.pdf
+   description: >
+        Develops a probabilistic description of thermal equilibrium and derives the exponential form of the equilibrium energy distribution.
 #  - pub:
 #    title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
 #    authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
