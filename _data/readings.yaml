@@ -73,6 +73,13 @@ Day 4:
    description: >
         Reflects on Jacques Monod’s life and scientific contributions, including his central role in developing modern ideas of gene regulation and molecular biology.
 
+ - pub:
+   title: "The Great Ideas of Biology"
+   authors: Paul Nurse
+   year: 2003
+   link: Nurse2003.pdf
+   description: >
+        Presents five central ideas in biology: the cell, the gene, evolution by natural selection, life as chemistry, and biological organization through information and logical processes.
 #  - pub:
 #    title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
 #    authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
